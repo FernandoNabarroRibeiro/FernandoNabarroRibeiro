@@ -27,4 +27,4 @@ Me chamo Fernando Nabarro Ribeiro, tenho 17 anos e sou natural de São Paulo. Co
   />
 
 </p>
-![Snake animation](https://github.com/rafaelarralin12/rafaelarralin12/blob/output/github-contribution-grid-snake.svg)
+

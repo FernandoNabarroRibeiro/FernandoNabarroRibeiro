@@ -17,7 +17,7 @@ Me chamo Fernando Nabarro Ribeiro, tenho 17 anos e sou natural de São Paulo. Co
     title="Give me a coffee" 
     src="https://img.shields.io/badge/GIVE%20A%20COFFEE-FF5E5B?style=for-the-badge&logo=buymeacoffee&logoColor=white"
 />
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/FernandoNabarroRibeiro?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
